@@ -1,2 +1,2 @@
-print("hello may and gali")
-print(" ")
+print("hi everyone")
+print("blabla")
